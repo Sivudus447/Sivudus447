@@ -3,9 +3,11 @@
 🎯 Passionate **Software Developer** with expertise in **Java, Spring Boot, Hibernate, SQL, and Web Development**.  
 🔍 **Seeking an opportunity** to innovate, solve problems, and contribute to cutting-edge software solutions!  
 
+---
+
 ## 🌟 About Me  
 
-👨‍💻 **B.Tech in Electronics and Communication Engineering**  
+👨‍🎓 **B.Tech in Electronics and Communication Engineering**  
 💡 **Tech Enthusiast | Problem Solver | Fast Learner**  
 
 📫 **Reach Me At:**  
@@ -35,20 +37,20 @@
 
 ---
 
-## 🎮 Fun Zone - Play My Game!  
-
-🕹️ **Catch the Falling Objects Game** - **Challenge Yourself!** 🎯  
-
-👉 **[Click Here to Play the Game](https://sivudus447.github.io/games/)**  
-[![Play Now](https://img.shields.io/badge/PLAY-NOW-red?style=for-the-badge)](https://sivudus447.github.io/games/)  
-
----
-
-## 📜 Certifications  
+## 🏆 Certifications  
 
 ✔ **Front End Development** - IBM Skills Build  
 ✔ **PCB Designing** - APSSDC  
 ✔ **Embedded Systems using IoT** - Microlinks Pvt Ltd  
+
+---
+
+## 🎮 Fun Zone - Play My Game!  
+
+🕹️ **Catch the Star Game** - **Test Your Reflexes!** 🎯  
+
+👉 **[Click Here to Play the Game](https://sivudus447.github.io/catch_the_star_game/)**  
+[![Play Now](https://img.shields.io/badge/PLAY-NOW-red?style=for-the-badge)](https://sivudus447.github.io/catch_the_star_game/)  
 
 ---
 
